@@ -19,7 +19,7 @@ body {
   background-color: #f7f3de; }
 
 .reveal {
-  font-family: "Garamond", sans-serif;
+  font-family: "Courier New", sans-serif;
   font-size: 25px;
   font-weight: normal;
   color: #333; }
@@ -133,7 +133,7 @@ body {
 .reveal blockquote {
   display: block;
   position: relative;
-  width: 70%;
+  width: 90%;
   margin: 20px auto;
   padding: 5px;
   font-style: italic;
